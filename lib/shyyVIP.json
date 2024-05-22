@@ -38,4 +38,4 @@
 
     //"分类url":"https://shdy2.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId};;akd",
     
-    "分类":"电影$1#电视剧$2#韩剧$22#美剧$22#综艺$3#动漫$4"}
+    "分类":"电影$1#电视剧$2"}
